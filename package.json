@@ -1,6 +1,7 @@
 {
   "name": "nest-font",
   "version": "0.1.0",
+  "homepage": "https://jamielhf.github.io/nest-font",
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.23",
