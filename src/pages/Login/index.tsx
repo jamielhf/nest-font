@@ -5,6 +5,11 @@ import './index.scss';
 const  LoginForm = (props: any) => {
   const handleSubmit = (e: any) => {
     e.preventDefault();
+    props.form.validateFields((err: any, values: any) => {
+      if (!err) {
+        console.log('Received values of form: ', values);
+      }
+    });
   };
   const { getFieldDecorator } = props.form;
   return(
