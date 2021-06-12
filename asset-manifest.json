@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/nest-font/static/css/main.499e2a1d.chunk.css",
+    "main.js": "/nest-font/static/js/main.f3d66187.chunk.js",
+    "main.js.map": "/nest-font/static/js/main.f3d66187.chunk.js.map",
+    "runtime-main.js": "/nest-font/static/js/runtime-main.c14a1196.js",
+    "runtime-main.js.map": "/nest-font/static/js/runtime-main.c14a1196.js.map",
+    "static/css/2.7ececfe9.chunk.css": "/nest-font/static/css/2.7ececfe9.chunk.css",
+    "static/js/2.898f8c3b.chunk.js": "/nest-font/static/js/2.898f8c3b.chunk.js",
+    "static/js/2.898f8c3b.chunk.js.map": "/nest-font/static/js/2.898f8c3b.chunk.js.map",
+    "index.html": "/nest-font/index.html",
+    "precache-manifest.79d5a5cff821d4a0d0dcfe562b5cbc6c.js": "/nest-font/precache-manifest.79d5a5cff821d4a0d0dcfe562b5cbc6c.js",
+    "service-worker.js": "/nest-font/service-worker.js",
+    "static/css/2.7ececfe9.chunk.css.map": "/nest-font/static/css/2.7ececfe9.chunk.css.map",
+    "static/css/main.499e2a1d.chunk.css.map": "/nest-font/static/css/main.499e2a1d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c14a1196.js",
+    "static/css/2.7ececfe9.chunk.css",
+    "static/js/2.898f8c3b.chunk.js",
+    "static/css/main.499e2a1d.chunk.css",
+    "static/js/main.f3d66187.chunk.js"
+  ]
+}
